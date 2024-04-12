@@ -10,7 +10,7 @@
 
 ### Currently learning 
   - Data Analysis
-  - Digital Image Processing
+  - Data Science
   
   ### Main Languages
 
